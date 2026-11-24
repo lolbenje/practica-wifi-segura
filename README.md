@@ -10,7 +10,7 @@ Análisis de una petición web desde las herramientas del navegador para ver qu�
 
 ## Evidencia observada
 En la pestaña Red y luego headers se ve
-* Método: GET[cite: 5]
+* Método: GET
 * Host: shiningwholeyyounglight.neverssl.com
 * Referer: http://neverssl.com/
 * User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0
